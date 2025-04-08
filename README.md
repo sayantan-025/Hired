@@ -1,26 +1,48 @@
-<h1 align="center">💫 Hired💫</h1>
+<h1 align="center">💫 Hired 💫</h1>
 
-<p align="center"><img src="https://img.shields.io/badge/Created_By-Sayantan_Bera-blue"> <img src="https://img.shields.io/badge/Using-REACT + SUPABASE-red"></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Created_By-Sayantan_Bera-blue"> 
+<img src="https://img.shields.io/badge/Tech_Stack-React_+_Supabase_+_Clerk_+_ShadcnUI-red">
+<img src="https://img.shields.io/badge/License-MIT-green">
+<img src="https://img.shields.io/badge/Status-Active-brightgreen">
+</p>
+
+---
 
 🎉 **Just Launched My Latest Project!** 🎉
 
-I'm excited to share my new **QR Code Generator** app, built using **React**, **Tailwind CSS**, and the **Context API**. This project was both challenging and rewarding, and I’m eager to show it off!
+I'm excited to introduce **Hired**, a modern **Job Portal Website** built using **React**, **Supabase**, **Clerk**, and **Shadcn UI**.  
+This project is designed to connect job seekers with employers through a simple and powerful platform. 🚀
 
-### 🔑 **Key Features:**
+---
 
-- **Dynamic QR Code Generation:** Instantly create QR codes for URLs, text, or any custom data.
-- **Color Customization:** Personalize your QR codes by changing their colors to match your style or brand.
-- **Downloadable Codes:** Easily download your generated QR codes as images for later use.
-- **Responsive Design:** Tailwind CSS ensures the app adapts beautifully to any screen size.
+## 🔑 Key Features
 
-### 💻 **Technologies:**
+- 🔒 **Authentication:** Secure login/signup with Clerk.
+- 🗂️ **Job Management:** Post, view, search, and filter job listings.
+- 📄 **Application Tracking:** Apply for jobs and manage applications easily.
+- 📱 **Responsive UI:** Looks beautiful across all devices using Shadcn UI.
+- 🔥 **Supabase Backend:** Real-time data handling with Supabase.
+- 🎨 **Modern Design:** Clean and intuitive layout powered by Shadcn UI.
 
-- **React:** Developed a smooth and interactive user experience.
-- **Tailwind CSS:** Achieved a clean, responsive design with utility-first styling.
-- **Context API:** Managed state efficiently, keeping the app responsive and user-friendly.
+---
 
-<h2>🚀 Watch Live :</h2>
+## 💻 Technologies Used
 
-[www.qrcodegenerator.com](https://qrcodegenerator24.netlify.app/)
+- **Frontend:** React + Vite
+- **UI Library:** Shadcn UI
+- **Backend-as-a-Service:** Supabase
+- **Authentication:** Clerk
+- **Styling:** Tailwind CSS (inside Shadcn)
 
-<h2>👁️ Project Overview :</h2>
+---
+
+## 🚀 Live Demo
+
+👉 [View Hired Live](https://hired-iota.vercel.app/)
+
+---
+
+<h2> 💖Like my work ?</h2>
+
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️.
