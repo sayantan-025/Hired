@@ -1,4 +1,4 @@
-<h1 align="center">💫 Hired 💫</h1>
+<h1 align="center">💫 Hirrd 💫</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Created_By-Sayantan_Bera-blue"> 
