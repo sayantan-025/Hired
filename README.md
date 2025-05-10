@@ -43,6 +43,6 @@ This project is designed to connect job seekers with employers through a simple 
 
 ---
 
-<h2> 💖Like my work ?</h2>
+## 💖 Like my work ?
 
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️.
